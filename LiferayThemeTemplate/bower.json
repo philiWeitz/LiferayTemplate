@@ -1,0 +1,24 @@
+{
+  "name": "Angular JS Hello World",
+  "version": "0.1.0",
+  "homepage": "https://github.com/philiWeitz/LiferayTemplate",
+  
+  "authors": [
+    "Philipp Weitz <philiweitz@gmail.com>"
+  ],
+  
+  "dependencies": {
+    "bootstrap": "3.2.0"
+  },
+
+  "description": "Liferay Templates",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
