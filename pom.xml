@@ -20,6 +20,7 @@
 	<modules>
 		<module>LiferayThemeTemplate</module>
 		<module>LiferayLayoutTemplate</module>
+		<module>LiferayHookTemplate</module>
 	</modules>
 
 	<build>

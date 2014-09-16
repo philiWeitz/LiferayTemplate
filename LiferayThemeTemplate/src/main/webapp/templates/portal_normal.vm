@@ -5,12 +5,18 @@
 <html class="#language ("lang.dir")" dir="#language ("lang.dir")" lang="$w3c_language_id">
 
 <head>
-	<script type="text/javascript" src="$javascript_folder/../bower_components/jquery/dist/jquery.js"></script>
-	<script type="text/javascript" src="$javascript_folder/../bower_components/bootstrap/dist/js/bootstrap.js"></script>
-
 	<title>$the_title - $company_name</title>
 
 	$theme.include($top_head_include)
+	
+	############# own js libraries and css references #############
+	
+	###<script type="text/javascript" src="$javascript_folder/../bower_components/jquery/dist/jquery.js"></script>
+	###<script type="text/javascript" src="$javascript_folder/../bower_components/bootstrap/dist/js/bootstrap.js"></script>
+
+	###<link rel="stylesheet" href="$javascript_folder/../bower_components/bootstrap/dist/css/bootstrap.css"></link>
+	
+	###############################################################
 </head>
 
 <body class="$css_class">
